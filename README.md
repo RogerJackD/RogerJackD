@@ -11,7 +11,9 @@
         <img src="./assets/carbon-code.png" alt="Code Philosophy" width="100%" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);"/>
       </td>
       <td valign="bottom" width="40%">
-        <img src="./assets/profile.png" alt="Roger Jack" width="300" style="border-radius: 50%;"/>
+        <img src="https://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif"
+     width="370"
+     height="450" />
       </td>
     </tr>
   </table>
