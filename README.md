@@ -1,26 +1,27 @@
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table style="border: none;">
     <tr>
-      <td valign="center" width="60%">
+      <td valign="center" width="60%" style="border: none;">
         <h1>👋 Hi there! I'm Roger Jack</h1>
-        <h3>🚀 Full Stack Developer</h3>
         <p align="left">
           I'm a <strong>proactive and curious developer</strong> passionate about building complete web solutions from start to finish. I get excited about tackling <strong>real-world problems</strong> and solving them with clean, efficient code.
           <br><br>
           I'm always looking to apply <strong>best practices</strong> and continuously improve the quality of my projects.
         </p>
         <br>
-        <code>
-          const developer = {<br>
-          &nbsp;&nbsp;name: "Roger Jack",<br>
-          &nbsp;&nbsp;focus: "Building complete web experiences",<br>
-          &nbsp;&nbsp;passion: "Solving real-world problems",<br>
-          &nbsp;&nbsp;philosophy: "Clean code + Best practices"<br>
-          };
-        </code>
+
+```typescript
+const developer = {
+  name: "Roger Jack",
+  focus: "Building complete web experiences",
+  passion: "Solving real-world problems",
+  philosophy: "Clean code + Best practices"
+};
+```
+
       </td>
-      <td valign="center" width="40%">
-        <img src="./assets/profile.png" alt="Roger Jack" width="300" style="border-radius: 50%;"/>
+      <td valign="center" width="40%" style="border: none;">
+        <img src="./assets/profile.png" alt="Roger Jack" width="300" style="border-radius: 50%; border: none;"/>
       </td>
     </tr>
   </table>
