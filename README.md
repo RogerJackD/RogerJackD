@@ -1,27 +1,17 @@
 <div align="center">
-  <table style="border: none;">
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td valign="center" width="60%" style="border: none;">
+      <td valign="center" width="60%">
         <h1>👋 Hi there! I'm Roger Jack</h1>
         <p align="left">
           I'm a <strong>proactive and curious developer</strong> passionate about building complete web solutions from start to finish. I get excited about tackling <strong>real-world problems</strong> and solving them with clean, efficient code.
-          <br><br>
+          <br>
           I'm always looking to apply <strong>best practices</strong> and continuously improve the quality of my projects.
         </p>
-        <br>
-
-```typescript
-const developer = {
-  name: "Roger Jack",
-  focus: "Building complete web experiences",
-  passion: "Solving real-world problems",
-  philosophy: "Clean code + Best practices"
-};
-```
-
+        <img src="./assets/carbon-code.png" alt="Code Philosophy" width="100%"/>
       </td>
-      <td valign="center" width="40%" style="border: none;">
-        <img src="./assets/profile.png" alt="Roger Jack" width="300" style="border-radius: 50%; border: none;"/>
+      <td valign="center" width="40%">
+        <img src="./assets/profile.png" alt="Roger Jack" width="300" style="border-radius: 50%;"/>
       </td>
     </tr>
   </table>
@@ -67,24 +57,3 @@ const developer = {
 - ☁️ **AWS** - Cloud services and scalable architectures
 - 📊 **GraphQL** - Efficient queries and modern APIs
 
-## 💼 Development Approach
-
-```javascript
-class Developer {
-  constructor() {
-    this.approach = {
-      codeQuality: "Clean Code & SOLID principles",
-      testing: "TDD when possible",
-      architecture: "Scalable and maintainable",
-      learning: "Continuous and practical"
-    };
-  }
-  
-  async buildSolution(problem) {
-    const solution = await this.analyze(problem);
-    return this.implement(solution)
-      .withBestPractices()
-      .andRealWorldImpact();
-  }
-}
-```
