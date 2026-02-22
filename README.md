@@ -58,5 +58,6 @@
 - 🐹 **Golang** - Deepening into performance and concurrency
 - 🐰 **RabbitMQ** - Messaging and distributed architectures
 - ☁️ **AWS** - Cloud services and scalable architectures
+- ☁️ **Azure** - Exploring cloud services and deployment strategies
 - 📊 **GraphQL** - Efficient queries and modern APIs
 
